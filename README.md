@@ -1,7 +1,7 @@
-Ò»¡¢Introduction
+# Introduction
 webdemo is used golang dev web app
 
-¶þ¡¢Directory structure
+# Directory structure
 
 bin  //install dir
 
@@ -13,11 +13,10 @@ src //source code
 
 template //js£¬css£¬template file
 
+# How Run 
 
-Èý¡¢How Run 
+1. install more than go1.4
 
-1 install more than go1.4
+2. install mysql
 
-2 install mysql
-
-3 edit ajaxController #36about mysql set
+3. edit ajaxController #36about mysql set
